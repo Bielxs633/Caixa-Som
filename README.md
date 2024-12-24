@@ -12,9 +12,9 @@ Este projeto simula uma **Caixa de Som**.  Ele permite que o usuário coloque ar
 ---
 
 ## Funcionalidades
-- adição de arquivos de áudio.
-- Reproduzir o som assim que o arquivo for carregado.
-- Interface amigável para fácil interação.
+1. adição de arquivos de áudio.
+2. Reproduzir o som assim que o arquivo for carregado.
+3. Interface amigável para fácil interação.
 
 ---
 
